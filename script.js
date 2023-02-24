@@ -6,7 +6,7 @@ function validation (){
         showingError.style.setProperty('--showing', 'none');
         showingError.style.setProperty('--error', 'none');
         borderChange.style.border = "1.5px solid hsl(0, 31%, 81%)";
-        alert("EMAIL SUDMITED");
+        alert("EMAIL SUBMITED");
     }else{
         showingError.style.setProperty('--showing', 'block');
         showingError.style.setProperty('--error', 'block');
